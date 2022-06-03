@@ -2,10 +2,10 @@
 
 Projeto de landing page desenvolvida para uma firma de contabilidade. Com formulário oculto que aparece ao clicar em "Contato".
 
- <img src="./img/project-image1.png" alt="Projeto-Imagem1">
- <img src="./img/project-image2.png" alt="Projeto-Imagem2">
- <img src="./img/project-image3.png" alt="Projeto-Imagem3">
- <img src="./img/project-image4.png" alt="Projeto-Imagem4">
+ <img src="./assets/project-image1.png" alt="Projeto-Imagem1">
+ <img src="./assets/project-image2.png" alt="Projeto-Imagem2">
+ <img src="./assets/project-image3.png" alt="Projeto-Imagem3">
+ <img src="./assets/project-image4.png" alt="Projeto-Imagem4">
 
 ## Feito Com:
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/pt-br/windows/get-windows-10)
